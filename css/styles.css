@@ -162,7 +162,7 @@ body {
 }
 
 .basement {
-  border-color: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .footer_text {
@@ -170,5 +170,9 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+.logo_basement_studio {
   color: #f4f4fd;
 }
