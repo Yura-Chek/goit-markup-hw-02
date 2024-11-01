@@ -31,11 +31,11 @@ ul {
   text-decoration: none;
 }
 
-.logo_studio {
+.logo-studio {
   color: #2e2f42;
 }
 
-.nav_list_item {
+.nav-list-item {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -43,8 +43,8 @@ ul {
   color: #2e2f42;
 }
 
-.nav_list_item:hover,
-.nav_list_item:focus {
+.nav-list-item:hover,
+.nav-list-item:focus {
   color: #404bbf;
 }
 
@@ -52,23 +52,23 @@ ul {
   font-style: normal;
 }
 
-.contacts_link {
+.contacts-link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.contacts_link:hover,
-.contacts_link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
   color: #404bbf;
 }
 
-.section_first {
+.section-first {
   background-color: #2e2f42;
 }
 
-.section_first_header {
+.section-first-header {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -93,7 +93,7 @@ ul {
   cursor: pointer;
 }
 
-.section_second_header {
+.section-second-header {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -101,7 +101,7 @@ ul {
   color: #2e2f42;
 }
 
-.section_second_text {
+.section-second-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -109,11 +109,11 @@ ul {
   color: #434455;
 }
 
-.section_third {
+.section-third {
   background: #f4f4fd;
 }
 
-.section_third_header {
+.section-third-header {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -123,11 +123,11 @@ ul {
   color: #2e2f42;
 }
 
-.section_third_item {
+.section-third-item {
   background-color: #ffffff;
 }
 
-.section_third_name {
+.section-third-name {
   font-size: 20px;
   line-height: 1.2;
   font-weight: 500;
@@ -135,7 +135,7 @@ ul {
   color: #2e2f42;
 }
 
-.section_third_text {
+.section-third-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -143,7 +143,7 @@ ul {
   color: #434455;
 }
 
-.section_fourth_header {
+.section-fourth-header {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -153,7 +153,7 @@ ul {
   color: #2e2f42;
 }
 
-.section_fourth_name {
+.section-fourth-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -161,7 +161,7 @@ ul {
   color: #2e2f42;
 }
 
-.section_fourth_text {
+.section-fourth-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -173,7 +173,7 @@ ul {
   background-color: #2e2f42;
 }
 
-.footer_text {
+.footer-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -181,6 +181,6 @@ ul {
   color: #f4f4fd;
 }
 
-.logo_basement_studio {
+.logo-basement-studio {
   color: #f4f4fd;
 }
